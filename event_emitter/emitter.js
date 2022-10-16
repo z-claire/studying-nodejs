@@ -1,3 +1,5 @@
+/// NOT USED
+/// EXAMPLE OF AN EMITTER WRITTEN IN JAVASCRIPT
 
 // I create a constructor so I can create more emitters
 function Emitter() {
