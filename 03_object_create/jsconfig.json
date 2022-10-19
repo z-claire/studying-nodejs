@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "target": "ES6" // Specifies which default library (lib.d.ts) to use
+    }
+}
